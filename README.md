@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shubhisingh19970/DSA/tree/master/0012-integer-to-roman) |
+| [3731-find-missing-elements](https://github.com/shubhisingh19970/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shubhisingh19970/DSA/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/shubhisingh19970/DSA/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/shubhisingh19970/DSA/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
