@@ -17,12 +17,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/shubhisingh19970/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shubhisingh19970/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shubhisingh19970/DSA/tree/master/0014-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shubhisingh19970/DSA/tree/master/0014-longest-common-prefix) |
 | [3731-find-missing-elements](https://github.com/shubhisingh19970/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/shubhisingh19970/DSA/tree/master/3731-find-missing-elements) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shubhisingh19970/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
